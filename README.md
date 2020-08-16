@@ -19,12 +19,13 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/azurefunctions.svg" />
-<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/typescript.svg"/>
-<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/jenkins.svg"/>
-<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/git.svg"/>
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/maven.jpg" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/git.png"/>
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/jfrog.png"/>
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/shell.jpg"/>
 <img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/microsoftazure.svg"/>
-<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/jenkins.jpg"/>
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/teraform.jpg"/>
 
 
     
