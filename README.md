@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/azurefunctions.svg" /
+<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/azurefunctions.svg" />
 
 
 
