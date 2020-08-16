@@ -23,6 +23,10 @@
 <img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/typescript.svg"/>
 <img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/jenkins.svg"/>
 <img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/git.svg"/>
+<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/microsoftazure.svg"/>
+<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
+
+
     
 
 
