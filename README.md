@@ -24,8 +24,8 @@
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/jfrog.png"/>
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/shell.jpg"/>
 <img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/microsoftazure.svg"/>
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/jenkins.jpg"/>
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/teraform.jpg"/>
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/jenkins.png"/>
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/teraform.png"/>
 
 
     
