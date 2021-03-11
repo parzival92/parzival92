@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on cloud automation 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and tech videos 
+- 🥅 2021 Goals: Contribute,Learn and Meet new people having same interests.
 - ⚡ Fun fact: I love to workout 🏃
 
 ### Connect with me:
