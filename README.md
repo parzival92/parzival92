@@ -3,7 +3,6 @@
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - 🔭 I’m currently working on cloud automation 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute,Learn and Meet new people having same interests.
 - ⚡ Fun fact: I love to workout 🏃
 
