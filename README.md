@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/icons/avatar.png" width="180" />
+  <img src="/icons/avatar1.png" width="180" />
 
   ## Hi there, I'm Abhishek Sharma 👋  
   **DevOps Engineer | Automation Lover | Cloud & Kubernetes Enthusiast**
