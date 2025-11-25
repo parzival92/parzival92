@@ -3,7 +3,7 @@
 ### **DevOps Engineer | Cloud Automation | Kubernetes | SRE Mindset**
 
 <div align="center">
-  <img src="/icon/avatar1.png" width="160" />
+  <img src="/icons/avatar1.png" width="160" />
 </div>
 
 ---
@@ -75,11 +75,3 @@ I’m a DevOps engineer with **4+ years in Kubernetes, GitOps (Flux), Kustomize,
 * **Facebook:** [https://www.facebook.com/abhishek.slayer](https://www.facebook.com/abhishek.slayer)
 
 ---
-
-If you want, I can also add:
-✔ Live GitHub contribution graph
-✔ A professional dark header banner
-✔ A polished “DevOps Toolkit” section with icons
-✔ A project timeline section
-
-Just tell me: **“Bro add more polish”** 🔥
