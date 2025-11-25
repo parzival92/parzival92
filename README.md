@@ -10,7 +10,7 @@
 ### 🚀 About Me  
 - 🔭 Working on **Cloud Automation** & Infra as Code  
 - 🌱 Currently learning **everything** 🤣  
-- 🥅 **2024 Goals:** Contribute, learn, and meet like-minded people  
+- 🥅 **2025 Goals:** Contribute, learn, and meet like-minded people  
 - ⚡ **Fun fact:** I love to workout 🏃💪  
 
 ---
