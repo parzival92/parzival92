@@ -59,19 +59,13 @@ I’m a DevOps engineer with **4+ years in Kubernetes, GitOps (Flux), Kustomize,
 ## 📊 GitHub Insights
 <div align="center">
 
-  <!-- Main Stats (Mirror) -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parzival92&show_icons=true&theme=github_dark&count_private=true"
-    height="160"
-  />
+  <!-- Mirror (often more reliable) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parzival92&show_icons=true&theme=github_dark&count_private=true" height="160" />
 
-  <!-- Top Languages (Mirror) -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=parzival92&layout=compact&theme=github_dark"
-    height="160"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=parzival92&layout=compact&theme=github_dark" height="160" />
 
 </div>
+
 
 
 
