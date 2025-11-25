@@ -1,36 +1,45 @@
-## Hi there, I'm Abhishek Sharma 👋
+<div align="center">
+  <img src="/mnt/data/A_flat-style_digital_illustration_features_a_GitHu.png" width="180" />
 
-### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
-- 🔭 I’m currently working on cloud automation 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Contribute,Learn and Meet new people having same interests.
-- ⚡ Fun fact: I love to workout 🏃
+  ## Hi there, I'm Abhishek Sharma 👋  
+  **DevOps Engineer | Automation Lover | Cloud & Kubernetes Enthusiast**
+</div>
 
-### Connect with me:
+---
 
+### 🚀 About Me  
+- 🔭 Working on **Cloud Automation** & Infra as Code  
+- 🌱 Currently learning **everything** 🤣  
+- 🥅 **2024 Goals:** Contribute, learn, and meet like-minded people  
+- ⚡ **Fun fact:** I love to workout 🏃💪  
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
+### 🌐 Connect with Me  
+[<img align="left" alt="LinkedIn" width="26px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
+[<img align="left" alt="Instagram" width="26px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
+[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-### Languages and Tools:
+<br><br>
 
+---
 
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/maven.jpg" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/git.png"/>
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/jfrog.png"/>
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/shell.jpg"/>
-<img align="left" alt="Unix" width="30px" src="https://simpleicons.org/icons/microsoftazure.svg"/>
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/jenkins.png"/>
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/parzival92/parzival92/master/icons/teraform.png"/>
+### 🛠️ Tech Stack  
+<img align="left" width="40px" src="https://skillicons.dev/icons?i=git" />
+<img align="left" width="40px" src="https://skillicons.dev/icons?i=github" />
+<img align="left" width="40px" src="https://skillicons.dev/icons?i=jenkins" />
+<img align="left" width="40px" src="https://skillicons.dev/icons?i=azure" />
+<img align="left" width="40px" src="https://skillicons.dev/icons?i=bash" />
+<img align="left" width="40px" src="https://skillicons.dev/icons?i=terraform" />
+<img align="left" width="40px" src="https://skillicons.dev/icons?i=kubernetes" />
+<img align="left" width="40px" src="https://skillicons.dev/icons?i=docker" />
 
+<br><br><br>
 
-    
+---
 
+### 📫 Social Links  
 
-
-[facebook]: https://www.facebook.com/abhishek.slayer
-[instagram]: https://www.instagram.com/parzival.92
-[linkedin]: https://www.linkedin.com/in/abhishek-sharma-790a8b149/
+[facebook]: https://www.facebook.com/abhishek.slayer  
+[instagram]: https://www.instagram.com/parzival.92  
+[linkedin]: https://www.linkedin.com/in/abhishek-sharma-790a8b149/  
