@@ -1,45 +1,85 @@
-<div align="center">
-  <img src="/icons/avatar1.png" width="180" />
+# 👨‍💻 Abhishek Sharma
 
-  ## Hi there, I'm Abhishek Sharma 👋  
-  **DevOps Engineer | Automation Lover | Cloud & Kubernetes Enthusiast**
+### **DevOps Engineer | Cloud Automation | Kubernetes | SRE Mindset**
+
+<div align="center">
+  <img src="/icon/avatar1.png" width="160" />
 </div>
 
 ---
 
-### 🚀 About Me  
-- 🔭 Working on **Cloud Automation** & Infra as Code  
-- 🌱 Currently learning **everything** 🤣  
-- 🥅 **2025 Goals:** Contribute, learn, and meet like-minded people  
-- ⚡ **Fun fact:** I love to workout 🏃💪  
+## 🚀 About Me
+
+I’m a DevOps engineer with **4+ years in Kubernetes, GitOps (Flux), Kustomize, Azure Infra (Bicep)** and automation across cloud-native environments. My work revolves around building reliable, secure, and automated infra pipelines.
+
+* 🛠 Designing & automating **cloud infrastructure**
+* ☸️ Managing **production-grade Kubernetes clusters**
+* 🧩 Implementing GitOps using **Flux + Kustomize**
+* 🔄 Building CI/CD workflows (Jenkins, GitHub Actions)
+* 📦 Containerization & orchestration
+* 🔍 Obsessed with reliability, scalability, and automation
 
 ---
 
-### 🌐 Connect with Me  
-[<img align="left" alt="LinkedIn" width="26px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
-[<img align="left" alt="Instagram" width="26px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
-[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+## 🧰 Core Skills
 
-<br><br>
-
----
-
-### 🛠️ Tech Stack  
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=git" />
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=github" />
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=jenkins" />
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=azure" />
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=bash" />
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=terraform" />
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=kubernetes" />
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=docker" />
-
-<br><br><br>
+<div>
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,ansible,git,jenkins,githubactions,bash,linux,prometheus,grafana" />
+</div>
 
 ---
 
-### 📫 Social Links  
+## 📈 What I’m Working On
 
-[facebook]: https://www.facebook.com/abhishek.slayer  
-[instagram]: https://www.instagram.com/parzival.92  
-[linkedin]: https://www.linkedin.com/in/abhishek-sharma-790a8b149/  
+* Cloud-native automation projects
+* Infra modularization using Bicep/Terraform
+* GitOps-driven deployment workflows
+* Improving cluster observability & cost optimization
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔹 **Kubernetes GitOps Platform (FluxCD + Azure)**
+
+* Fully Git-driven cluster management
+* Automated deployments with Kustomize overlays
+* Secrets handled via Azure Key Vault + SOPS
+
+### 🔹 **IaC Library for Azure (Bicep)**
+
+* Modular, reusable production‑grade templates
+* Covers VNets, AKS, ACR, Key Vault, Private Endpoints
+
+### 🔹 **Cloud Automation Toolkit**
+
+* Scripts & pipeline templates for CI/CD, scanning, and security policies
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek&show_icons=true&theme=github_dark" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek&layout=compact&theme=github_dark" height="160" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/abhishek-sharma-790a8b149/](https://www.linkedin.com/in/abhishek-sharma-790a8b149/)
+* **Instagram:** [https://www.instagram.com/parzival.92](https://www.instagram.com/parzival.92)
+* **Facebook:** [https://www.facebook.com/abhishek.slayer](https://www.facebook.com/abhishek.slayer)
+
+---
+
+If you want, I can also add:
+✔ Live GitHub contribution graph
+✔ A professional dark header banner
+✔ A polished “DevOps Toolkit” section with icons
+✔ A project timeline section
+
+Just tell me: **“Bro add more polish”** 🔥
