@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/mnt/data/A_flat-style_digital_illustration_features_a_GitHu.png" width="180" />
+  <img src="/icon/avatar.png" width="180" />
 
   ## Hi there, I'm Abhishek Sharma 👋  
   **DevOps Engineer | Automation Lover | Cloud & Kubernetes Enthusiast**
