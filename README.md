@@ -56,13 +56,20 @@ I’m a DevOps engineer with **4+ years in Kubernetes, GitOps (Flux), Kustomize,
 * Scripts & pipeline templates for CI/CD, scanning, and security policies
 
 ---
-
 ## 📊 GitHub Insights
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek&show_icons=true&theme=github_dark" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek&layout=compact&theme=github_dark" height="160" />
+  <!-- Main Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=parzival&show_icons=true&theme=github_dark&count_private=true" 
+    height="160"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzival&layout=compact&theme=github_dark" 
+    height="160"
+  />
 
 </div>
 
