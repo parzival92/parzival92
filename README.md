@@ -1,75 +1,61 @@
-# 👨‍💻 Abhishek Sharma
+# Abhishek Sharma
 
-### **DevOps Engineer | Cloud Automation | Kubernetes | SRE Mindset**
+DevOps Engineer | Cloud Engineer
 
-<div align="center">
-  <img src="/icons/avatar1.png" width="160" />
-</div>
+Cloud and DevOps engineer with 10+ years of experience building secure, scalable infrastructure across cloud and hybrid environments. Focused on Azure, Kubernetes, GitOps, and IaC. Experienced enabling AI/ML workloads and MLOps workflows for reliable model deployment and monitoring.
 
----
+## Focus Areas
 
-## 🚀 About Me
+- Cloud infrastructure and platform engineering on Azure
+- Kubernetes operations, GitOps workflows, and deployment automation
+- IaC with Bicep and Terraform, compliance-ready modular templates
+- Observability, reliability, and self-healing systems
 
-I’m a DevOps engineer with **4+ years in Kubernetes, GitOps (Flux), Kustomize, Azure Infra (Bicep)** and automation across cloud-native environments. My work revolves around building reliable, secure, and automated infra pipelines.
+## Tech Stack
 
-* 🛠 Designing & automating **cloud infrastructure**
-* ☸️ Managing **production-grade Kubernetes clusters**
-* 🧩 Implementing GitOps using **Flux + Kustomize**
-* 🔄 Building CI/CD workflows (Jenkins, GitHub Actions)
-* 📦 Containerization & orchestration
-* 🔍 Obsessed with reliability, scalability, and automation
+- Cloud: Azure
+- Containers: Kubernetes, Docker
+- IaC: Bicep, Terraform
+- GitOps: Flux, Kustomize
+- CI/CD: Azure DevOps, GitHub Actions
+- Observability: Prometheus, Grafana, ELK, Metricbeat
+- Security: Checkov
+- Scripting: Python, Groovy
 
----
+## Experience Highlights
 
-## 🧰 Core Skills
+- Globant India Pvt Ltd (Senior Level 1, 06/2021 - Present, Pune): Managed production-grade Kubernetes clusters; implemented GitOps with Flux and Kustomize; built reusable Azure IaC with Bicep; integrated App Gateway, Key Vault, VNet, and Managed Identity; improved reliability with proactive monitoring and self-healing.
+- Infosys Limited (Senior DevOps Engineer, 01/2015 - 06/2021, Pune): Automated Azure DevTest Lab provisioning; deployed ELK and Metricbeat for real-time logging; automated Atlassian maintenance with Groovy; supported Jira, Confluence, Bitbucket, Jenkins, CARA, and Chef; delivered solutions for UBS, Westpac, and Wells Fargo.
 
-<div>
-<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,ansible,git,jenkins,githubactions,bash,linux,prometheus,grafana" />
-</div>
+## Featured Work
 
----
+- Project 1: Add a 1-line summary and link
+- Project 2: Add a 1-line summary and link
+- Project 3: Add a 1-line summary and link
 
-## 📈 What I’m Working On
+## Education
 
-* Cloud-native automation projects
-* Infra modularization using Bicep/Terraform
-* GitOps-driven deployment workflows
-* Improving cluster observability & cost optimization
+- B.E. in Computer Science, GBTU (Gautam Buddha Technical University), Lucknow (2010 - 2014)
 
----
+## Languages
 
-## 🏗️ Featured Projects
+- Hindi (Native or Bilingual)
+- English (Professional Working)
 
-### 🔹 **Kubernetes GitOps Platform (FluxCD + Azure)**
+## Interests
 
-* Fully Git-driven cluster management
-* Automated deployments with Kustomize overlays
-* Secrets handled via Azure Key Vault + SOPS
+- Gaming
+- Chess
+- Photography/Editing
+- F1
 
-### 🔹 **IaC Library for Azure (Bicep)**
+## Contact
 
-* Modular, reusable production‑grade templates
-* Covers VNets, AKS, ACR, Key Vault, Private Endpoints
+- Email: abhisheksvps@gmail.com
+- LinkedIn: https://linkedin.com/in/abhishek-sharma-790a8b149
+- GitHub: https://github.com/parzival92
+- Location: Pune, India
 
-### 🔹 **Cloud Automation Toolkit**
+## GitHub Stats
 
-* Scripts & pipeline templates for CI/CD, scanning, and security policies
-
----
-## 📊 GitHub Insights
-## 📊 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parzival92&show_icons=true&theme=github_dark&count_private=true" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=parzival92&layout=compact&theme=github_dark" height="160" />
-</div>
-
-
----
-
-## 📫 Connect With Me
-
-* **LinkedIn:** [https://www.linkedin.com/in/abhishek-sharma-790a8b149/](https://www.linkedin.com/in/abhishek-sharma-790a8b149/)
-* **Instagram:** [https://www.instagram.com/parzival.92](https://www.instagram.com/parzival.92)
-* **Facebook:** [https://www.facebook.com/abhishek.slayer](https://www.facebook.com/abhishek.slayer)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parzival92&show_icons=true&hide_title=true)
