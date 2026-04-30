@@ -2,7 +2,11 @@
 
 # Abhishek Sharma
 
-**DevOps Engineer | Cloud Engineer | Azure | Kubernetes | GitOps | Infrastructure as Code**
+**DevOps Engineer | Cloud Engineer | Azure | Kubernetes | GitOps | Platform Engineering**
+
+<a href="https://github.com/parzival92">
+  <img alt="Typing headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&vCenter=true&width=880&lines=Cloud+%26+DevOps+Engineer;Azure+%7C+Kubernetes+%7C+GitOps+%7C+IaC;Building+AI-ready+cloud+native+platforms;Reliability+%7C+Automation+%7C+Developer+Experience" />
+</a>
 
 I design and operate secure, scalable cloud platforms with a practical focus on automation, reliability, observability, and developer experience.
 
@@ -19,6 +23,16 @@ I design and operate secure, scalable cloud platforms with a practical focus on 
 Cloud and DevOps engineer with 10+ years of experience building and running cloud, hybrid, and platform engineering systems. My work is centered around Azure, Kubernetes, GitOps, infrastructure as code, observability, and automation that makes engineering teams faster without compromising reliability or security.
 
 I also work on AI/ML infrastructure and MLOps workflows, including repeatable deployment patterns, monitoring, and operational guardrails for model-backed systems.
+
+## 2026 Trend Radar
+
+| Signal I am following | How it connects to my work |
+| --- | --- |
+| [AI-assisted engineering and agents](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) | Using AI to improve troubleshooting, documentation, runbooks, pipeline feedback, and operational triage while keeping production changes reviewable. |
+| [Platform engineering and internal developer platforms](https://www.cncf.io/announcements/2026/03/24/cncf-and-slashdata-report-finds-cloud-native-community-reaches-nearly-20-million-developers/) | Building paved paths for teams through reusable infrastructure modules, GitOps workflows, deployment standards, and safer self-service. |
+| [Cloud native AI workloads](https://www.cncf.io/announcements/2026/03/24/cncf-and-slashdata-report-finds-cloud-native-community-reaches-nearly-20-million-developers/) | Operating Kubernetes, observability, event-driven patterns, and reliability practices that support model deployment, inference, and MLOps. |
+| [Typed, reproducible, automation-friendly systems](https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/) | Favoring clear contracts, repeatable IaC, policy checks, and automation that is easier for humans and AI tools to reason about. |
+| [Sustainable open source and maintainer hygiene](https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/) | Keeping repositories easier to understand with clear READMEs, contribution paths, automation, and project context. |
 
 ## What I Work On
 
@@ -82,12 +96,14 @@ Senior DevOps Engineer | Jan 2015 - Jun 2021
 - Automated Atlassian platform maintenance with Groovy and supported Jira, Confluence, Bitbucket, Jenkins, CARA, and Chef.
 - Delivered DevOps solutions for enterprise clients including UBS, Westpac, and Wells Fargo.
 
-## Currently Exploring
+## 2026 Focus
 
-- Platform engineering patterns for faster, safer developer workflows
-- Kubernetes reliability, chaos engineering, and incident response practice
+- AI-ready DevOps workflows with safer automation, better runbooks, and faster incident context
+- Platform engineering patterns that turn infrastructure complexity into reusable developer paths
+- Kubernetes reliability, chaos engineering, SLOs, and incident response practice
 - MLOps deployment, model monitoring, and AI workload operations
-- Policy-driven infrastructure and compliance automation
+- Policy-driven infrastructure, supply chain security, and compliance automation
+- Cloud cost visibility and pragmatic FinOps practices for platform teams
 
 ## GitHub Activity
 
