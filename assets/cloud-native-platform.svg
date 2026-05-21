@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
   <title id="title">Cloud native platform animation</title>
-  <desc id="desc">Animated cloud native platform diagram showing Azure, GitOps, Kubernetes, observability, infrastructure as code, and AI operations.</desc>
+  <desc id="desc">Animated cloud native platform diagram showing Azure, GitOps, Kubernetes, Grafana observability, and infrastructure as code.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111f"/>
@@ -77,12 +77,12 @@
   <g transform="translate(698 48)">
     <rect class="chip" width="156" height="74" rx="18"/>
     <text class="small" x="78" y="27" text-anchor="middle">INSIGHT</text>
-    <text class="label" x="78" y="53" text-anchor="middle">Observability</text>
+    <text class="label" x="78" y="53" text-anchor="middle">Grafana</text>
   </g>
   <g transform="translate(698 144)">
     <rect class="chip" width="156" height="74" rx="18"/>
     <text class="small" x="78" y="27" text-anchor="middle">AUTOMATION</text>
-    <text class="label" x="78" y="53" text-anchor="middle">AI Ops + IaC</text>
+    <text class="label" x="78" y="53" text-anchor="middle">IaC + Flux</text>
   </g>
 
   <g opacity="0.9">
@@ -100,5 +100,5 @@
     </circle>
   </g>
 
-  <text x="450" y="236" text-anchor="middle" class="small">AI-ready cloud native platforms | reliable delivery | observable systems</text>
+  <text x="450" y="236" text-anchor="middle" class="small">Azure Kubernetes platforms | Flux delivery | Grafana observability</text>
 </svg>
