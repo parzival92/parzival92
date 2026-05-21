@@ -110,12 +110,16 @@ Senior DevOps Engineer | Jan 2015 - Jun 2021
 - Bicep and Terraform modules for repeatable infrastructure delivery
 - Practical automation for CI/CD, runbooks, and day-to-day platform operations
 
-## GitHub Activity
+## GitHub Work
 
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=parzival92&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzival92&layout=compact&hide_border=true&theme=transparent" />
-</p>
+The profile avoids third-party GitHub stats cards because they can fail or rate-limit. These links point directly to GitHub-hosted activity and repositories.
+
+| View | Link |
+| --- | --- |
+| Public repositories | [github.com/parzival92?tab=repositories](https://github.com/parzival92?tab=repositories) |
+| Contribution activity | [github.com/parzival92](https://github.com/parzival92) |
+| Kubernetes work | [KubeChaos](https://github.com/parzival92/KubeChoas), [CKA](https://github.com/parzival92/CKA), [ProductsStoreOnKubernetes](https://github.com/parzival92/ProductsStoreOnKubernetes) |
+| Azure and IaC work | [AzureTerraform](https://github.com/parzival92/AzureTerraform), [devops-governance](https://github.com/parzival92/devops-governance), [AzureARMTemplates](https://github.com/parzival92/AzureARMTemplates) |
 
 ## Education
 
