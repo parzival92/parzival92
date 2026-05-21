@@ -8,6 +8,10 @@
   <img alt="Typing headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&vCenter=true&width=880&lines=Cloud+%26+DevOps+Engineer;Azure+%7C+Kubernetes+%7C+GitOps+%7C+IaC;Building+AI-ready+cloud+native+platforms;Reliability+%7C+Automation+%7C+Developer+Experience" />
 </a>
 
+<p align="center">
+  <img src="./assets/cloud-native-platform.svg" alt="Animated cloud native platform diagram showing Azure, GitOps, Kubernetes, observability, infrastructure as code, and AI operations" width="900" />
+</p>
+
 I design and operate secure, scalable cloud platforms with a practical focus on automation, reliability, observability, and developer experience.
 
 [![Profile views](https://komarev.com/ghpvc/?username=parzival92&style=flat-square&color=0e75b6)](https://github.com/parzival92)
