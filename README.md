@@ -112,8 +112,6 @@ Senior DevOps Engineer | Jan 2015 - Jun 2021
 
 ## GitHub Work
 
-The profile avoids third-party GitHub stats cards because they can fail or rate-limit. These links point directly to GitHub-hosted activity and repositories.
-
 | View | Link |
 | --- | --- |
 | Public repositories | [github.com/parzival92?tab=repositories](https://github.com/parzival92?tab=repositories) |
