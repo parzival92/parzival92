@@ -133,5 +133,5 @@ Gaming, chess, photography/editing, and Formula 1.
 
 - LinkedIn: [abhishek-sharma-790a8b149](https://linkedin.com/in/abhishek-sharma-790a8b149)
 - GitHub: [parzival92](https://github.com/parzival92)
-- Email: [abhisheksvps@gmail.com](mailto:abhisheksvps@gmail.com)
+- Email: [abhishdevops@gmail.com](mailto:abhishdevops@gmail.com)
 - Location: Pune, India
