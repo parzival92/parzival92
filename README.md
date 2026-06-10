@@ -73,10 +73,11 @@ I like practical engineering: clear architecture, repeatable deployments, useful
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## Featured Work
+## Highlighted Projects
 
 | Project | Focus |
 | --- | --- |
+| [Skills Lab](https://github.com/parzival92/skills) | Structured lab for adapting, evaluating, and packaging reusable Codex and Claude Code `SKILL.md` workflows with provenance and promotion checks. |
 | [KubeChaos](https://github.com/parzival92/KubeChoas) | Kubernetes troubleshooting and chaos engineering practice using Chaos Mesh, FastAPI, Typer, and kind. |
 | [AzureTerraform](https://github.com/parzival92/AzureTerraform) | Terraform-based Azure infrastructure workflows, authentication patterns, and Key Vault provisioning examples. |
 | [devops-governance](https://github.com/parzival92/devops-governance) | Azure governance reference covering RBAC, Terraform automation, Azure DevOps projects, service connections, and drift detection. |
@@ -116,6 +117,7 @@ Senior DevOps Engineer | Jan 2015 - Jun 2021
 | --- | --- |
 | Public repositories | [github.com/parzival92?tab=repositories](https://github.com/parzival92?tab=repositories) |
 | Contribution activity | [github.com/parzival92](https://github.com/parzival92) |
+| Skills and workflow tooling | [Skills Lab](https://github.com/parzival92/skills) |
 | Kubernetes work | [KubeChaos](https://github.com/parzival92/KubeChoas), [CKA](https://github.com/parzival92/CKA), [ProductsStoreOnKubernetes](https://github.com/parzival92/ProductsStoreOnKubernetes) |
 | Azure and IaC work | [AzureTerraform](https://github.com/parzival92/AzureTerraform), [devops-governance](https://github.com/parzival92/devops-governance), [AzureARMTemplates](https://github.com/parzival92/AzureARMTemplates) |
 
